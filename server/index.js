@@ -18,7 +18,7 @@ class SocketServer {
       cors: {
         origin: [
           "http://localhost:3000",
-          "https://you-and-me-seven.vercel.app",
+          "https://you-and-me-2025.vercel.app",
           "https://admin.socket.io",
         ],
         credentials: true,
